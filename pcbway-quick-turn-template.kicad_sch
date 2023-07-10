@@ -1,5 +1,22 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8f8727a4-3f7b-4f8a-bbd9-9a7f0015756a)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "KiCad PCBWay Quick Turn PCB Production Tamplate")
+    (date "2023-07-10")
+    (rev "V000")
+    (company "BKB Electronics")
+    (comment 1 "Author: BKB Electronics")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
