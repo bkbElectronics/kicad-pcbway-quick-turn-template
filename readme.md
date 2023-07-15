@@ -9,10 +9,13 @@
 ## Step 3 - Point to that template folder in the preferences
 ![Clone](images/3a.png)
 
-## Step 4 - Create a new project from template
+## Step 4 - Select the repository folder
 ![Clone](images/4a.png)
 
-## Step 5 - Select the template
+## Step 5 - Create a new project from template
 ![Clone](images/5a.png)
 
-## Step 6 - Design!
+## Step 6 - Select the template
+![Clone](images/6a.png)
+
+## Step 7 - Design!
