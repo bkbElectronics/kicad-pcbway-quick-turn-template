@@ -1,6 +1,6 @@
 # How to use KiCad PCBWay Quick Turn Template
 
-## Step 1 - Clone the repository
+## Step 1 - Clone the repository to your computer
 ![Clone](images/1a.png)
 
 ## Step 2 - Configure Paths in KiCad
@@ -15,4 +15,4 @@
 ## Step 5 - Select the template
 ![Clone](images/5a.png)
 
-## Step 6 - Start!
+## Step 6 - Design!
